@@ -1,3 +1,4 @@
+# vim:set ft=dockerfile:
 FROM alpine:3.4
 
 MAINTAINER deinspanjer@gmail.com
